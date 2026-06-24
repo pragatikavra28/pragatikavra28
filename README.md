@@ -70,6 +70,10 @@
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/pragatikavra777?theme=dark&font=Karma)
 
+## 📈 Contribution Graph
+
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=pragatikavra28&theme=tokyo-night)
+
 ## 📊 Most Used Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pragatikavra28&layout=compact&theme=tokyonight)
