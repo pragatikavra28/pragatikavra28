@@ -66,6 +66,9 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=pragatikavra28&theme=tokyonight)
 
 ---
+## 💡 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/pragatikavra777?theme=dark&font=Karma)
 
 ## 📊 Most Used Languages
 
