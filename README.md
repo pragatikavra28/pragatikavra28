@@ -70,6 +70,10 @@
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/pragatikavra777?theme=dark&font=Karma)
 
+## 📈 LeetCode Progress
+
+![LeetCode](https://leetcode.card.workers.dev/pragatikavra777?theme=dark&font=baloo&extension=null)
+
 ## 📈 Contribution Graph
 
 ![Graph](https://github-readme-activity-graph.vercel.app/graph?username=pragatikavra28&theme=tokyo-night)
