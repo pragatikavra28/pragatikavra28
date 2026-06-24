@@ -111,6 +111,8 @@ React + Node.js + MongoDB
 
 LinkedIn:
 https://linkedin.com/in/pragati-kavra-018960279 
+HackerRank:
+https://www.hackerrank.com/profile/_2315001610
 
 Email:
 pragati.kavra_cs23@gla.ac.in
