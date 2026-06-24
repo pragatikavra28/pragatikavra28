@@ -70,9 +70,9 @@
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/pragatikavra777?theme=dark&font=Karma)
 
-## 📈 LeetCode Progress
+## 🟩 LeetCode Submission Graph
 
-![LeetCode](https://leetcode.card.workers.dev/pragatikavra777?theme=dark&font=baloo&extension=null)
+![LeetCode Heatmap](https://leetcard.jacoblin.cool/pragatikavra777?theme=dark&ext=heatmap)
 
 ## 📈 Contribution Graph
 
