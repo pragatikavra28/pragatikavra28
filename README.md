@@ -66,10 +66,6 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=pragatikavra28&theme=tokyonight)
 
 ---
-## 💡 LeetCode Stats
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/pragatikavra777?theme=dark&font=Karma)
-
 ## 🟩 LeetCode Submission Graph
 
 ![LeetCode Heatmap](https://leetcard.jacoblin.cool/pragatikavra777?theme=dark&ext=heatmap)
@@ -88,6 +84,8 @@
 
 ### LeetCode
 https://www.leetcode.com/u/pragatikavra777/ 
+### HackerRank:
+https://www.hackerrank.com/profile/_2315001610
 
 ---
 
@@ -111,8 +109,6 @@ React + Node.js + MongoDB
 
 LinkedIn:
 https://linkedin.com/in/pragati-kavra-018960279 
-HackerRank:
-https://www.hackerrank.com/profile/_2315001610
 
 Email:
 pragati.kavra_cs23@gla.ac.in
