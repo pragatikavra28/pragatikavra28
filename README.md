@@ -14,7 +14,6 @@
 - Advanced Java
 - Spring Boot
 - System Design
-- Backend Development
 
 🎯 Goal:
 - Crack SDE Internships
@@ -43,7 +42,7 @@
 
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+
 
 ### Databases
 
