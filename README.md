@@ -58,13 +58,7 @@
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pragatikavra28&show_icons=true&theme=tokyonight)
-
----
-
-## 🐍 Contribution Snake
+## 📈 GitHub Conntribution 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/pragatikavra28/pragatikavra28/blob/output/github-contribution-grid-snake-dark.svg">
