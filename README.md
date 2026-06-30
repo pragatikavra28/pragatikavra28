@@ -64,6 +64,16 @@
 
 ---
 
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/pragatikavra28/pragatikavra28/blob/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/pragatikavra28/pragatikavra28/blob/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://github.com/pragatikavra28/pragatikavra28/blob/output/github-contribution-grid-snake.svg">
+</picture>
+
+___
+
 ## 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=pragatikavra28&theme=tokyonight)
