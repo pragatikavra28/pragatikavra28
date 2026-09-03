@@ -77,9 +77,6 @@ ___
 
 ![LeetCode Heatmap](https://leetcard.jacoblin.cool/pragatikavra777?theme=dark&ext=heatmap)
 
-## 📊 Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pragatikavra28&layout=compact&theme=tokyonight)
 
 ---
 
