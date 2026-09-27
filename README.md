@@ -1,114 +1,251 @@
-<h1 align="center">Hi 👋, I'm Pragati Kavra</h1>
+<!-- ===================== HEADER ===================== -->
 
-<h3 align="center">B.Tech CSE Student | Java Developer | DSA Enthusiast</h3>
+<h1 align="center">
+  Hi 👋, I'm Pragati Kavra
+</h1>
+
+<h3 align="center">
+  Full-Stack Developer • Java Developer • DSA Enthusiast
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3500&color=36BCF7&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Java+Developer;MERN+Stack+Enthusiast;DSA+Problem+Solver;Building+Real-World+Projects+🚀" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/pragatikavra28">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/pragati-kavra-018960279">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/pragatikavra777/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+</p>
 
 ---
 
-## 🚀 About Me
+## 👩‍💻 About Me
 
-🎓 B.Tech Computer Science Engineering Student
-
-💻 Solving Data Structures & Algorithms problems regularly
-
-🌱 Currently Learning:
-- Advanced Java
-- Spring Boot
-- System Design
-
-🎯 Goal:
-- Crack SDE Internships
-- Become a Software Engineer
-
-⚡ Fun Fact:
-- I enjoy solving coding challenges and building real-world projects
+🎓 **B.Tech Computer Science & Engineering Student** at GLA University, Mathura
+💻 Passionate about **Full-Stack Development & Backend Engineering**
+☕ Building applications with **Java, JavaScript & MERN Stack**
+🧠 Practicing **Data Structures, Algorithms & Problem Solving**
+🤖 Exploring **Generative AI & LLM-powered applications**
+🚀 Interested in building scalable and real-world software solutions
+📚 Always learning, building, and improving
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Programming Languages
+### 💻 Languages
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
 
-### Frontend
+### 🌐 Frontend
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+</p>
 
-### Backend
+### ⚙️ Backend & APIs
 
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+</p>
 
+### 🗄️ Databases & Infrastructure
 
-### Databases
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+### 🔧 Tools
 
-### Tools & Platforms
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
----
-
-## 📈 GitHub Contribution 
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/pragatikavra28/pragatikavra28/blob/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/pragatikavra28/pragatikavra28/blob/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake" src="https://github.com/pragatikavra28/pragatikavra28/blob/output/github-contribution-grid-snake.svg">
-</picture>
-
-___
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=pragatikavra28&theme=tokyonight)
-
----
-## 🟩 LeetCode Submission Graph
-
-![LeetCode Heatmap](https://leetcard.jacoblin.cool/pragatikavra777?theme=dark&ext=heatmap)
-
-
----
-
-## 🏆 Coding Profiles
-
-### LeetCode
-https://www.leetcode.com/u/pragatikavra777/ 
-### HackerRank:
-https://www.hackerrank.com/profile/_2315001610
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 1. Student Management System
+### 🤖 Prepzo AI — AI-Powered Interview Preparation Platform
 
-Java + OOP
+An AI-powered platform that analyzes resumes against job descriptions and generates personalized interview preparation strategies.
 
-### 2. Employee Payroll System
+**Tech Stack:** `React.js` `Node.js` `Express.js` `MongoDB` `JWT` `LLMs`
 
-Java + File Handling
+✨ Resume vs Job Description Analysis
+🎯 Match Score Generation
+🧠 AI-Based Interview Question Generation
+🔐 JWT Authentication & Guest Access
+📊 Responsive React Dashboard
+☁️ Deployed using Vercel & Render
 
-### 3. Full Stack Project
+<p>
+  <a href="https://prepzo-ai-frontend.vercel.app">
+    <img src="https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://github.com/pragatikavra28/prepzo-ai">
+    <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-React + Node.js + MongoDB
+---
+
+### 🎟️ The Last Minute App — Full-Stack Booking Platform
+
+A microservices-based booking platform designed for authentication, listings, bookings, and payment workflows.
+
+**Tech Stack:** `React.js` `Node.js` `Express.js` `PostgreSQL` `Redis` `Docker`
+
+🔐 JWT Authentication
+🏗️ Microservices Architecture
+⚡ Redis Caching & Sessions
+🔒 PostgreSQL Row Locking
+🚫 Double-Booking Prevention
+🔄 Transactions & Idempotent Requests
+
+<p>
+  <a href="https://github.com/pragatikavra28/TheLastMinuteApp">
+    <img src="https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 💼 Experience
+
+### Java Developer Intern — CodSoft
+
+📅 **2025 | Remote**
+
+* Developed Java-based applications using **OOP principles**
+* Applied **data structures and algorithmic problem-solving**
+* Strengthened Java programming fundamentals
+* Worked on application logic, debugging, and coding challenges
+
+---
+
+## 🧠 Problem Solving
+
+<p align="center">
+  <img src="https://img.shields.io/badge/250%2B-DSA_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  <img src="https://img.shields.io/badge/3★%2B-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+</p>
+
+### 📌 Core CS
+
+* Data Structures & Algorithms
+* Object-Oriented Programming
+* Complexity Analysis
+* Operating Systems
+* Computer Networks
+* Database Management Systems
+
+---
+
+## 🏆 Certifications & Achievements
+
+🏅 **Oracle Certified Generative AI Professional**
+🎨 **Meta Certified Front End Developer**
+🤖 **Career Essentials in Generative AI — Microsoft & LinkedIn**
+💻 **250+ Programming & DSA Problems Solved**
+⭐ **3★+ HackerRank Rating**
+📚 **Google Workspace — Infosys Springboard**
+
+---
+
+## 👩‍💼 Leadership & Activities
+
+### 📱 Social Media Head — Prakriti Club
+
+Presented regular technical project updates to club leadership and peers.
+
+### 💻 Technical Associate — Literario Club
+
+Assisted in organizing technical workshops and university events.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pragatikavra28&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pragatikavra28&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pragatikavra28/pragatikavra28/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 📈 LeetCode
+
+<p align="center">
+  <a href="https://leetcode.com/u/pragatikavra777/">
+    <img src="https://leetcard.jacoblin.cool/pragatikavra777?theme=dark&ext=heatmap" />
+  </a>
+</p>
 
 ---
 
 ## 📫 Connect With Me
 
-LinkedIn:
-https://linkedin.com/in/pragati-kavra-018960279 
+<p align="center">
 
-Email:
-pragati.kavra_cs23@gla.ac.in
+<a href="https://www.linkedin.com/in/pragati-kavra-018960279">
+  <img src="https://img.shields.io/badge/LinkedIn-Pragati_Kavra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/pragatikavra28">
+  <img src="https://img.shields.io/badge/GitHub-pragatikavra28-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://leetcode.com/u/pragatikavra777/">
+  <img src="https://img.shields.io/badge/LeetCode-pragatikavra777-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+
+</p>
+
+---
+
+## 💡 Developer Mindset
+
+<p align="center">
+  <i>"Learn. Build. Debug. Repeat. 🚀"</i>
+</p>
+
+<p align="center">
+  ⭐ <b>Building projects, solving problems, and continuously improving.</b> ⭐
+</p>
+
+<p align="center">
+  <b>Open to internships, collaborations, and software development opportunities.</b>
+</p>
