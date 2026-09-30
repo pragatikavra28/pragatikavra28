@@ -128,7 +128,7 @@ A microservices-based booking platform designed for authentication, listings, bo
 🔄 Transactions & Idempotent Requests
 
 <p>
-    <a href="https://github.com/pragatikavra28/TheLastMinuteApp">
+    <a href="https://lastminute-app-frontend.onrender.com">
     <img src="https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://github.com/pragatikavra28/TheLastMinuteApp">
