@@ -19,6 +19,9 @@
   <a href="https://www.linkedin.com/in/pragati-kavra-018960279">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://www.hackerrank.com/profile/_2315001610">
+  <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=HackerRank&logoColor=white" />
+</a>
   <a href="https://leetcode.com/u/pragatikavra777/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
