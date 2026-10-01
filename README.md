@@ -203,9 +203,10 @@ Assisted in organizing technical workshops and university events.
 
 ## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/pragatikavra28/pragatikavra28/output/github-contribution-grid-snake.svg" />
-</p>
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt=Snake animation />
+</div>
 
 ---
 
