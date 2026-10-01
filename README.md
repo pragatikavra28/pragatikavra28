@@ -13,6 +13,9 @@
 </p>
 
 <p align="center">
+  <a href="https://pragati-portfolio-steel.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-Live%20Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
   <a href="https://github.com/pragatikavra28">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
